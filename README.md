@@ -198,7 +198,5 @@ list(set(a) & set(b))
 
 because it's:
 shorter
-
 faster
-
 cleaner
