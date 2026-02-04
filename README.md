@@ -194,8 +194,6 @@ intersection()  ==  &
 Most Python developers prefer:
 
 list(set(a) & set(b))
-
-
 because it's:
 shorter
 faster
