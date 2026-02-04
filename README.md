@@ -15,10 +15,7 @@ Output
 [3, 4]
 ✅ Time Complexity
 O(n + m)  ← fastest
-
-
 👉 Recommended method
-
 ✅ 2. If you just want to check present or not
 
 (only True/False)
