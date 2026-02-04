@@ -8,7 +8,6 @@ b = [3, 4, 5, 6]
 
 result = list(set(a) & set(b))
 print(result)
-
 Method 2: using .intersection()
 result = list(set(a).intersection(b))
 
