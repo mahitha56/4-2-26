@@ -14,7 +14,6 @@ result = list(set(a).intersection(b))
 
 Output
 [3, 4]
-
 ✅ Time Complexity
 O(n + m)  ← fastest
 
