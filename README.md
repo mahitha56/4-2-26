@@ -10,8 +10,7 @@ result = list(set(a) & set(b))
 print(result)
 Method 2: using .intersection()
 result = list(set(a).intersection(b))
-
-Output
+Output:
 [3, 4]
 ✅ Time Complexity
 O(n + m)  ← fastest
